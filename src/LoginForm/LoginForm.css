@@ -1,0 +1,27 @@
+.s1{
+    margin-left: 550px;
+    margin-right:  500px;
+    margin-top: 80px;
+    margin-bottom: 150px;
+    border-style: solid;
+    height: 400px;
+    width: 350px;
+    border-width: 3px;
+    color: black;
+    background-color: antiquewhite;
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+}
+
+.s2{
+    margin-top: 100px;
+}
+
+.s3{
+    margin-top: 50px;
+    text-align: left;
+}
+
+.s4{
+    text-align: left;
+}

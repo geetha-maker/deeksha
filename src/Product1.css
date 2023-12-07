@@ -1,0 +1,19 @@
+.catalogue{
+    border: 0cap;
+    border-style: double;
+    height: 300px;
+    width: 350px;
+    border-width: 3px;
+}
+
+.addbtn{
+    text-align: right;
+    background-color: antiquewhite ;
+    color: black;
+}
+
+.p1{
+    display: inline-block;
+}
+
+
